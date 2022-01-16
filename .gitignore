@@ -6,5 +6,6 @@
 
 #firebase
 .firebaserc
-.firebase
+/firebase
 .firebase.json
+/build

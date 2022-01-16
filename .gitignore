@@ -1,0 +1,10 @@
+#api keys
+.env
+
+#dependencies
+/node_modules
+
+#firebase
+.firebaserc
+.firebase
+.firebase.json

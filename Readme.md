@@ -16,6 +16,7 @@
 - **React ∙ Redux**
 - **firebase**
 
+
 ## **Implementation Hightlights**
 - single page application web client with React & Redux
 - scrape raw movie data from imdb
